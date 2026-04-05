@@ -1,0 +1,6 @@
+device_id,x,y,signal_type
+router_1,0,0,AP
+device_2,2,2,client
+device_3,4,4,client
+device_4,1,5,client
+device_5,5,1,AP
