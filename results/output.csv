@@ -1,0 +1,7 @@
+x,y,signal_strength_dbm,coverage_status
+0,0,20,excellent
+1,1,15.5,excellent
+2,2,12.3,good
+3,3,8.7,good
+4,4,5.2,fair
+5,5,2.1,poor
