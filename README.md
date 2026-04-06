@@ -27,6 +27,7 @@ This project implements:
 - **Data Processing**: Convert device coordinates to signal strength maps
 
 ## 🏗️ Project Structure
+```bash
 wifi-signal-planner/
 ├── scripts/
 │   └── points_to_signal_csv.py      ✅ Main processing script
@@ -40,7 +41,7 @@ wifi-signal-planner/
 ├── tests/
 │   └── test_signal_model.py         ✅ Unit tests
 └── README.md                        ✅ Documentation
-
+```
 
 ## 🚀 Quick Start
 
