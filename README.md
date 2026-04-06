@@ -13,7 +13,6 @@ Example:
 """
 
 
-
 # WiFi Signal Planner 📡
 
 A Python-based system for planning WiFi network coverage and analyzing signal propagation in indoor environments.
